@@ -1,0 +1,13 @@
+{
+  "name": "Playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/marcoscezar19/Playwright",
+  "author": "Marcos Cézar <marcoscezar19@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.2"
+  },
+  "scripts": {}
+}
